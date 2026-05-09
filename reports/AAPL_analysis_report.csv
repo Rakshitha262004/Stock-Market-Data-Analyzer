@@ -1,1 +1,13 @@
-
+Ticker,Period,Metric,Value
+AAPL,2022-01-01 to 2024-12-31,daily_volatility,1.7076
+AAPL,2022-01-01 to 2024-12-31,annual_volatility,27.11
+AAPL,2022-01-01 to 2024-12-31,sharpe_ratio,0.3377
+AAPL,2022-01-01 to 2024-12-31,max_drawdown_pct,-30.02
+AAPL,2022-01-01 to 2024-12-31,total_return_pct,40.83
+AAPL,2022-01-01 to 2024-12-31,best_day_return_pct,8.9
+AAPL,2022-01-01 to 2024-12-31,worst_day_return_pct,-5.87
+AAPL,2022-01-01 to 2024-12-31,avg_daily_return_pct,0.0601
+AAPL,2022-01-01 to 2024-12-31,highest_close,257.61
+AAPL,2022-01-01 to 2024-12-31,lowest_close,123.05
+AAPL,2022-01-01 to 2024-12-31,start_price,178.1
+AAPL,2022-01-01 to 2024-12-31,end_price,250.83
