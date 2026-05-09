@@ -70,12 +70,15 @@ Stock-Market-Data-Analyzer/
 └── requirements.txt
 
 --
+
 ## 🚀 How to Run
-```bash
+bash
 pip install -r requirements.txt
 streamlit run app.py
 
 --
+
+
 ## 📸 Sample Output
 Candlestick + Volume chart
 Moving average crossover signals
@@ -102,7 +105,6 @@ Always consult a certified financial advisor before making investment decisions.
 
 --
 
----
 
 ## 1️⃣2️⃣ PROOF BUILDING STRATEGY
 
@@ -115,12 +117,28 @@ Always consult a certified financial advisor before making investment decisions.
 | Day 5 | Write visualizer.py, generate all charts | `feat: interactive Plotly visualizations` | Chart screenshots |
 | Day 6 | Complete app.py Streamlit + README + push | `feat: Streamlit dashboard + project documentation` | Dashboard in browser |
 
+
 ---
+
 
 ## 1️⃣3️⃣ SCREENSHOTS 
 
+![dashboard](outputs/dashboard1.png)
+![dashboard](outputs/dashboard2.png)
+![dashboard](outputs/dashboard3.png)
+![dashboard](outputs/dashboard4.png)
+![dashboard](outputs/dashboard5.png)
+![dashboard](outputs/dashboard6.png)
+![dashboard](outputs/dashboard7.png)
+![dashboard](outputs/dashboard8.png)
+![dashboard](outputs/dashboard9.png)
 
 ---
+
+## 🎬 Demo Video
+[▶️ Watch Demo ](https://drive.google.com/file/d/YOUR_FILE_ID/view)
+
+--
 
 ## 📦 Datasets
 
@@ -134,5 +152,6 @@ No manual download needed — `yfinance` fetches live data automatically.
 Place any downloaded CSV in the `/data` folder. The fetcher will use it automatically if the file matches the naming pattern `data/TICKER_START_END.csv`.
 
 ---
+
 
 > ⚠️ **Disclaimer:** This project is built entirely for educational and portfolio purposes. It does not constitute financial advice. Always consult a certified financial advisor before making investment decisions.
